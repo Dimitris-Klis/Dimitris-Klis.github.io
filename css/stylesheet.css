@@ -8,8 +8,8 @@ body {
 
 @font-face {
     font-family: "Agency FB Local File";
-    src: url("../fonts/AGENCYR.ttf");
-    src: url("../fonts/AGENCYR.ttf") format('truetype');
+    src: url("../fonts/AGENCYR.TTF");
+    src: url("../fonts/AGENCYR.TTF") format('truetype');
 }
 
 
